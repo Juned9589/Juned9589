@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Juned
 
-<!--
-**Juned9589/Juned9589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer | CSE Student
 
-Here are some ideas to get you started:
+Passionate Computer Science Engineering student focused on frontend development, React, JavaScript, TypeScript, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React.js
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- Portfolio Website
+- Dashboard UI
+- Weather App
+- Task Manager
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Juned9589
+- LinkedIn: www.linkedin.com/in/juned-bhutto-80b71435a
+- Portfolio: YOUR_PORTFOLIO_LINK
+
+---
+
+## ⚡ Currently Learning
+- Advanced React
+- TypeScript
+- Next.js
+- Backend Basics

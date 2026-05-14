@@ -5,7 +5,21 @@
 Passionate Full Stack Web Developer focused on building modern, responsive, and scalable web applications using frontend and backend technologies. I enjoy creating clean UI/UX experiences, solving real-world problems, and continuously improving my development skills.
 
 ---
+# 🌐 Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/juned-bhutto-80b71435a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bhuttojuned1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/bhuttojuned" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 
 
 ## 🌐 Socials:
